@@ -4,10 +4,10 @@
  * @author rhythm1705
  * @version 12 April 2020
  */
-
 #include <iostream>
 #include <SDL2/SDL.h>
 
+//defining macros using #define preprocessor
 #define WINDOW_SIZE 640 // the lenght and width of the window
 #define RADIUS 150 // the radius of the circle
 
