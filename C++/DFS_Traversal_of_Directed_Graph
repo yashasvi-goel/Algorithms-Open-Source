@@ -54,7 +54,7 @@ int main(){
 	return 0;
 }
 
-/* INPUT FORMAT
+/* INPUT EXAMPLE
 2
 5 7
 0 1
