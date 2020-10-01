@@ -11,6 +11,14 @@ Select the issue you want to work on, comment with the language of choice.
 
 Get to work!
 
+## Project Structure
+
+The repo is structured like
+
+- Algorithm Type
+    - Language
+        - Implementation
+
 ## Come talk to us
 
 Join our [discord channel](https://discord.gg/XKme36j)
