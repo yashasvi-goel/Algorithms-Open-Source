@@ -7,7 +7,9 @@ The motivation for this project is this [reddit post]( https://www.reddit.com/r/
 
 Have a look at the issues.
 
-Select the issue you want to work on, comment with the language of choice.
+Select the issue you want to work on, comment with the language of choice after which you would get assigned. Only then start working on the task.
+
+If the Algorithm of your choice is already implemented here, try to optimise it.
 
 Get to work!
 
