@@ -23,4 +23,4 @@ The repo is structured like
 
 ## Come talk to us
 
-Join our [discord channel](https://discord.gg/XKme36j)
+Join our [discord channel](https://discord.gg/ZMGujRk)
