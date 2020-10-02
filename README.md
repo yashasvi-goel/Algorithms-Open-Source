@@ -1,7 +1,9 @@
 # Algorithms-Open-Source
 
-The motivation for this project is this [reddit post]( https://www.reddit.com/r/compsci/comments/fuaudc/10_algorithms_every_computer_science_student_must/)
+This project is a collection of implementations of various algorithms in various programming languages. These algorithms are useful and relatively simple, and are recommended to be implemented by any computer science student.  
 
+## Motivation
+The motivation for this project is this [reddit post]( https://www.reddit.com/r/compsci/comments/fuaudc/10_algorithms_every_computer_science_student_must/)  
 
 ## Want to Contribute?
 
@@ -20,6 +22,35 @@ The repo is structured like
 - Algorithm Type
     - Language
         - Implementation
+
+## Currently implemented algorithms
+- Circle Drawing
+    + C++
+        * Bresenham
+- Encryption
+    + C
+        * RSA
+    + C#
+        * RSA
+- Graph Algorithms
+    + C++
+        * Cycle Detection
+    + C++
+        * Search
+            - BFS Traversal
+            - DFS Traversal
+- Page Rank
+    + Python
+- String Matching
+    + C++
+        * Rabin-Karp
+        * Z Algorithm
+    + Javascript
+        * Rabin-Karp
+
+
+## Maintainers
+- [Yashasvi Goel](https://github.com/yashasvi-goel)
 
 ## Come talk to us
 
