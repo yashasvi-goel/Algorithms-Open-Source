@@ -25,5 +25,6 @@ The repo is structured like
 
 Join our [discord channel](https://discord.gg/ZMGujRk)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
