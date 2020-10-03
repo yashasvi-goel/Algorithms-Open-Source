@@ -1,5 +1,7 @@
 {
-  "files": ["CONTRIBUTORS.md"],
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
@@ -12,6 +14,20 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "kartikdpsg",
+      "name": "Kartik Gupta",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44387602?v=4",
+      "profile": "https://github.com/kartikdpsg",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "projectName": "Algorithms-Open-Source",
+  "projectOwner": "yashasvi-goel",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
