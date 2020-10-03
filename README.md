@@ -24,3 +24,6 @@ The repo is structured like
 ## Come talk to us
 
 Join our [discord channel](https://discord.gg/ZMGujRk)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
