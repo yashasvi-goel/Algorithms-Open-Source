@@ -7,46 +7,46 @@ The motivation for this project is this [reddit post]( https://www.reddit.com/r/
 
 ## Want to Contribute?
 
-Have a look at the issues.
+- Have a look at the [issues](https://github.com/yashasvi-goel/Algorithms-Open-Source/issues)
+- Select an issue you want to work on
+- Comment with the language of choice, after which you will get assigned to that issue.
+    + Only then start working on the task.
+- If the algorithm of your choice is already implemented, try to optimise it.
+- Make sure to add your algorithm to the README if it does not currently exist there.
 
-Select the issue you want to work on, comment with the language of choice after which you would get assigned. Only then start working on the task.
-
-If the Algorithm of your choice is already implemented here, try to optimise it.
-
-Get to work!
+**Note: It is encouraged to implement already implemented algorithms in different languages.**  
 
 ## Project Structure
 
 The repo is structured like
 
-- Algorithm Type
-    - Language
-        - Implementation
+- Algorithm Category
+    + Algorithm Type (if needed)
+        - Language
+            - Implementation
 
 ## Currently implemented algorithms
 - Circle Drawing
-    + C++
-        * Bresenham
+    + Bresenham
 - Encryption
-    + C
-        * RSA
-    + C#
-        * RSA
+    + RSA
 - Graph Algorithms
-    + C++
-        * Cycle Detection
-    + C++
-        * Search
-            - BFS Traversal
-            - DFS Traversal
+    + Bi-directonal Dijkstra
+    + Cycle Detection
+        * Cycle detection in directed graph
+        * Cycle detection in undirected graph
+    + Search
+        * BFS traversal of directed graph
+        * DFS traversal of directed graph
 - Page Rank
-    + Python
+- Sorting
+    + Bubble sort
+    + Heap sort
+    + Insertion sort
+    + Selection sort
 - String Matching
-    + C++
-        * Rabin-Karp
-        * Z Algorithm
-    + Javascript
-        * Rabin-Karp
+    + Rabin-Karp
+    + Z Algorithm
 
 
 ## Maintainers
