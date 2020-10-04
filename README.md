@@ -29,21 +29,37 @@ The repo is structured like
 - Circle Drawing
     + Bresenham
 - Encryption
+    + Diffie-Hellman
     + RSA
 - Graph Algorithms
-    + Bi-directonal Dijkstra
+    + BFS Traversal
+    + Bidirectonal Dijkstra
     + Cycle Detection
-        * Cycle detection in directed graph
-        * Cycle detection in undirected graph
-    + Search
-        * BFS traversal of directed graph
-        * DFS traversal of directed graph
+    + DFS Traversal
 - Page Rank
+- Set Checking
+    + Bloom Filter
 - Sorting
+    + Bead Sort
+    + Bitonic Sort
     + Bubble sort
+    + Bucket Sort
+    + Cocktail Sort
+    + Comb Sort
+    + Counting Sort
+    + Gnome Sort
     + Heap sort
     + Insertion sort
-    + Selection sort
+    + Merge Sort
+    + Odd-Even Sort
+    + Pancake Sort
+    + Quick Sort
+    + Radix Sort
+    + Selection Sort
+    + Shell Sort
+    + Stooge Sort
+- Stable Matching
+    + Gale Shapley
 - String Matching
     + Rabin-Karp
     + Z Algorithm
@@ -51,6 +67,9 @@ The repo is structured like
 
 ## Maintainers
 - [Yashasvi Goel](https://github.com/yashasvi-goel)
+
+## Contributors
+[CONTRIBUTORS.md](https://github.com/yashasvi-goel/Algorithms-Open-Source/blob/master/CONTRIBUTORS.md)
 
 ## Come talk to us
 
