@@ -65,7 +65,7 @@ namespace P4
             switch(args[0])
             {
               case "encrypt":
-                BigInteger plain = new BigInteger.Parse(args[1]);
+                BigInteger plain = BigInteger.Parse(args[1]);
                 BigInteger p = BigInteger.Parse(args[2]);
                 BigInteger q = BigInteger.Parse(args[3]);
                 BigInteger e = BigInteger.Parse(args[4]);
