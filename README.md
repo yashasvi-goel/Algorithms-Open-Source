@@ -21,9 +21,9 @@ The motivation for this project is this [reddit post]( https://www.reddit.com/r/
 The repo is structured like
 
 - Algorithm Category
-    + Algorithm Type (if needed)
-        - Language
-            - Implementation
+    + Algorithm Name
+        - Language 
+            - Implementation - Source Code
 
 ## Currently implemented algorithms
 - Circle Drawing
