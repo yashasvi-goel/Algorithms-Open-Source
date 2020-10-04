@@ -31,6 +31,7 @@ The repo is structured like
 - Encryption
     + Diffie-Hellman
     + RSA
+    + Shamir Secret Sharing Algorithm
 - Graph Algorithms
     + BFS Traversal
     + Bidirectonal Dijkstra
