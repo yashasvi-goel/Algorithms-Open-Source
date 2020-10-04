@@ -43,6 +43,7 @@ The repo is structured like
     + Bead Sort
     + Bitonic Sort
     + Bubble sort
+    + Recursive Bubble sort
     + Bucket Sort
     + Cocktail Sort
     + Comb Sort
@@ -58,6 +59,7 @@ The repo is structured like
     + Selection Sort
     + Shell Sort
     + Stooge Sort
+    + Tim Sort
 - Stable Matching
     + Gale Shapley
 - String Matching
