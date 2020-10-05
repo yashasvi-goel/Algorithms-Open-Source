@@ -26,6 +26,8 @@ The repo is structured like
             - Implementation - Source Code
 
 ## Currently implemented algorithms
+- Compiler
+    + LALR parser
 - Circle Drawing
     + Bresenham
 - Encryption
