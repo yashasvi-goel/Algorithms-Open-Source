@@ -22,7 +22,7 @@ The repo is structured like
 
 - Algorithm Category
     + Algorithm Name
-        - Language 
+        - Language
             - Implementation - Source Code
 
 ## Currently implemented algorithms
@@ -66,6 +66,8 @@ The repo is structured like
 - String Matching
     + Rabin-Karp
     + Z Algorithm
+- Markov Algorithms
+    + Viterbi Algorithm 
 
 
 ## Maintainers
