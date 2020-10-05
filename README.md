@@ -76,7 +76,7 @@ The repo is structured like
 - [Yashasvi Goel](https://github.com/yashasvi-goel)
 
 ## Contributors
-[CONTRIBUTORS.md](https://github.com/yashasvi-goel/Algorithms-Open-Source/blob/master/CONTRIBUTORS.md)
+[CONTRIBUTORS](https://github.com/yashasvi-goel/Algorithms-Open-Source/graphs/contributors)
 
 ## Come talk to us
 
