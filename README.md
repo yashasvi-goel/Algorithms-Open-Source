@@ -35,6 +35,7 @@ The repo is structured like
     + RSA
     + Shamir Secret Sharing Algorithm
 - Graph Algorithms
+    + 0/1 BFS Traversal
     + BFS Traversal
     + Bidirectonal Dijkstra
     + Cycle Detection
