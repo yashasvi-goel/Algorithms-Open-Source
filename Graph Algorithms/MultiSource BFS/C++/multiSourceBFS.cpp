@@ -1,3 +1,9 @@
+/*
+Problem Statement :-
+Given a matrix containing '.' (free passage), '#' (walls) and 'M' (Monsters). The Monsters can travel in all 4 directions from their current 
+location. We have to find the LEAST time at which any free passage will be attacked by any of the monsters. 
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
