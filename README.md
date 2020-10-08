@@ -40,6 +40,7 @@ The repo is structured like
     + Bidirectonal Dijkstra
     + Cycle Detection
     + DFS Traversal
+    + MultiSource BFS
 - Page Rank
 - Set Checking
     + Bloom Filter
