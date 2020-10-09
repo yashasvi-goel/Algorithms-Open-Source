@@ -42,6 +42,8 @@ The repo is structured like
     + DFS Traversal
     + MultiSource BFS
     + All Pairs Shortest Path (FloydWarshall)
+- Markov Algorithms
+    + Viterbi Algorithm 
 - Page Rank
 - Polynomial Solver
 	+ Newton Method
@@ -73,8 +75,11 @@ The repo is structured like
 - String Matching
     + Rabin-Karp
     + Z Algorithm
-- Markov Algorithms
-    + Viterbi Algorithm 
+- Tree Traversal
+    + BFS
+    + Inorder
+    + Post order
+    + Pre order
 
 
 ## Maintainers
