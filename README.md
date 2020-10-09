@@ -43,6 +43,8 @@ The repo is structured like
     + MultiSource BFS
     + All Pairs Shortest Path (FloydWarshall)
 - Page Rank
+- Polynomial Solver
+	+ Newton Method
 - Set Checking
     + Bloom Filter
 - Sorting
