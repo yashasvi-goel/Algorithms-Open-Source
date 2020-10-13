@@ -42,6 +42,7 @@ The repo is structured like
     + DFS Traversal
     + MultiSource BFS
     + All Pairs Shortest Path (FloydWarshall)
+    + BellMan Ford Algorithm
 - Page Rank
 - Set Checking
     + Bloom Filter
