@@ -42,6 +42,7 @@ The repo is structured like
     + DFS Traversal
     + MultiSource BFS
     + All Pairs Shortest Path (FloydWarshall)
+    + Bellman Ford Algorithm
 - Markov Algorithms
     + Viterbi Algorithm 
 - Page Rank
