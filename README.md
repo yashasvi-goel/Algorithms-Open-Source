@@ -71,6 +71,7 @@ The repo is structured like
     + Shell Sort
     + Stooge Sort
     + Tim Sort
+    + Cycle Sort
 - Stable Matching
     + Gale Shapley
 - String Matching
