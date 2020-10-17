@@ -84,6 +84,8 @@ The repo is structured like
 - Tree Traversal
     + BFS
     + Inorder
+    + Iterative Post order
+    + Iterative Pre order
     + Post order
     + Pre order
 
