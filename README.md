@@ -28,6 +28,7 @@ The repo is structured like
 ## Currently implemented algorithms
 - Compiler
     + LALR parser
+    + LL-1 Parser
 - Circle Drawing
     + Bresenham
 - Encryption
@@ -43,6 +44,7 @@ The repo is structured like
     + MultiSource BFS
     + All Pairs Shortest Path (FloydWarshall)
     + Bellman Ford Algorithm
+    + Bridge Finding Algorithm
 - Markov Algorithms
     + Viterbi Algorithm 
 - Page Rank
