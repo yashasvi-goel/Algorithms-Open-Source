@@ -45,6 +45,8 @@ The repo is structured like
     + All Pairs Shortest Path (FloydWarshall)
     + Bellman Ford Algorithm
     + Bridge Finding Algorithm
+- LeetCode Solutions
+
 - Markov Algorithms
     + Viterbi Algorithm 
 - Page Rank
@@ -83,6 +85,7 @@ The repo is structured like
     + Inorder
     + Post order
     + Pre order
+
 
 
 ## Maintainers
