@@ -54,6 +54,7 @@ The repo is structured like
 	+ Newton Method
 - Set Checking
     + Bloom Filter
+    + Frequency 
 - Sorting
     + Bead Sort
     + Bitonic Sort
