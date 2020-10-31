@@ -45,6 +45,7 @@ The repo is structured like
     + All Pairs Shortest Path (FloydWarshall)
     + Bellman Ford Algorithm
     + Bridge Finding Algorithm
+    + Topological Sort
 - LeetCode Solutions
 
 - Markov Algorithms
